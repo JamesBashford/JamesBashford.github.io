@@ -6,4 +6,4 @@ This is my first ever blog post and this is a test.
 
 Is to show the timeline and my learnings on my path towards ML / Ai and applying that to medical problems :)
 
-![snake and staff.jpg](images/snake and staff.jpg)
+![snake and staff](images/snake and staff.jpg)
